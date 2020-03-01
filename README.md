@@ -23,7 +23,7 @@ You'll need to get the observed temperature anomaly data file for gistemp or sim
 https://data.giss.nasa.gov/pub/gistemp/gistemp1200_GHCNv4_ERSSTv5.nc.gz
 https://data.giss.nasa.gov/pub/gistemp/gistemp250_GHCNv4.nc.gz
 
-#### I originally made this friendship bracelet template for a party as a fundraiser for my CA Climate Expedition bike ride this summer (2020). You can [donate here](https://ce2020.funraise.org/fundraiser/naomi-goldenson), if you feel inspired.
+#### I originally made this friendship bracelet template for a party as a fundraiser for my [CA Climate Expedition](https://www.ioes.ucla.edu/project/the-california-climate-expedition/) bike ride this summer (2020). You can [donate here](https://ce2020.funraise.org/fundraiser/naomi-goldenson), if you feel inspired.
 
 
 ![image of warming stripes](300px-20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png "Warming Stripes Graphic")
