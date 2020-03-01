@@ -28,4 +28,4 @@ https://data.giss.nasa.gov/pub/gistemp/gistemp250_GHCNv4.nc.gz
 
 ![image of warming stripes](300px-20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png "Warming Stripes Graphic")
 
-Hat tip to Ed Hawkins for [creating the Warming Stripes visualization idea!]:(http://www.climate-lab-book.ac.uk/2018/warming-stripes/)
+Hat tip to Ed Hawkins for [creating the Warming Stripes visualization idea!](http://www.climate-lab-book.ac.uk/2018/warming-stripes/)
