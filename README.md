@@ -5,7 +5,7 @@
 ![image of friendship bracelet](2B997C23-EA78-4618-9EF2-AC8AB37F1918_1_105_c.jpeg "Example Bracelet 1")
 
 
-### [Here are the instructions for the global mean:] globalMeanInstructions.md
+### [Here are the instructions for the global mean:](globalMeanInstructions.md)
 ### And the U.S. mean:
 
 
@@ -27,4 +27,4 @@ https://data.giss.nasa.gov/pub/gistemp/gistemp250_GHCNv4.nc.gz
 
 ![image of warming stripes](300px-20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png "Warming Stripes Graphic")
 
-Hat tip to Ed Hawkins for [creating the Warming Stripes visualization idea!]: http://www.climate-lab-book.ac.uk/2018/warming-stripes/
+Hat tip to Ed Hawkins for [creating the Warming Stripes visualization idea!]:(http://www.climate-lab-book.ac.uk/2018/warming-stripes/)
