@@ -19,8 +19,10 @@ You can use the Jupyter Notebook to generate bracelet instructions for any count
 
 Just manually edit to the country or state code of your choosing. You can change the number of discrete colors, but I find that 7 is a good number for doing friendship bracelets. 
 
-You'll need to get the observed temperature anomaly data file for gistemp or similar, if you're running the script yourself.
+You'll need to get the observed temperature anomaly data file for gistemp or similar, if you're running the script yourself:
+
 [global 1200km](https://data.giss.nasa.gov/pub/gistemp/gistemp1200_GHCNv4_ERSSTv5.nc.gz)
+
 [land 250km](https://data.giss.nasa.gov/pub/gistemp/gistemp250_GHCNv4.nc.gz)
 
 #### I originally made this friendship bracelet template for a party as a fundraiser for my [CA Climate Expedition](https://www.ioes.ucla.edu/project/the-california-climate-expedition/) bike ride this summer (2020). You can [donate here](https://ce2020.funraise.org/fundraiser/naomi-goldenson), if you feel inspired.
