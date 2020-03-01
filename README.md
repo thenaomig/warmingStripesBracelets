@@ -65,6 +65,8 @@
 
 ## And California:
 
+![image of embroidery thread](D9D94B1F-C163-4016-84F5-770F65F9689D_1_105_c.jpeg "Embroidery Thread")
+
 One knot involves tieing the given color string around all the others *twice*.
 
 ![image of friendship bracelet](exampleBracelet.png "Example Bracelet")
